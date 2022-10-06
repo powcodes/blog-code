@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: 小小赵の博客
+subtitle: '个人博客'
+description: 听 看 学 思 变
+keywords: 技术文档 技术博客 计算机 编程
+author: 小小赵
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://powcodes.github.io.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -104,5 +104,5 @@ theme: butterfly
 deploy:
   type: git
   repo: git@github.com:powcodes/powcodes.github.io.git
-  branch: master
+  branch: dev
 
