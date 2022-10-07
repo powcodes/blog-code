@@ -13,5 +13,7 @@
 //修改下拉条的图标
 (function(){
     var icon=document.querySelector("#scroll-down > i");
-    icon.className="fas fa-angle-double-down scroll-down-effects";
+    if(icon!=null){
+        icon.className="fas fa-angle-double-down scroll-down-effects";
+    }
 })();
