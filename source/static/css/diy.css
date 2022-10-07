@@ -1,0 +1,9 @@
+/* 右侧底部边距 */
+#rightside{
+    bottom:120px;
+    right:-52px;
+}
+/* 页面底部内容样式 */
+#footer-wrap{
+    padding:18px 30px;
+}
